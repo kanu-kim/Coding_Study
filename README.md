@@ -9,8 +9,8 @@
 	- [힙 3문제](https://school.programmers.co.kr/learn/courses/30/parts/12117 )
 
 - 3주차 11/13 ~ 11/19
-	- [완전탐색 7문제] (https://school.programmers.co.kr/learn/courses/30/parts/12230 )
-	- [DFS/BFS 7문제] (https://school.programmers.co.kr/learn/courses/30/parts/12421)
+	- [완전탐색 7문제](https://school.programmers.co.kr/learn/courses/30/parts/12230)
+	- [DFS/BFS 7문제](https://school.programmers.co.kr/learn/courses/30/parts/12421)
 
 - 4주차 11/20 ~ 11/26
 	- [이분탐색 2문제](https://school.programmers.co.kr/learn/courses/30/parts/12486)
