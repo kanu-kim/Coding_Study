@@ -1,3 +1,4 @@
+#sting에 해당하는 요소 하나씩 비교 + length가 다른 경우 반복 비교
 def check(a,b):
     la,lb = len(a),len(b)
     x=0
